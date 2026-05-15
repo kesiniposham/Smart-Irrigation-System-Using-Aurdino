@@ -152,26 +152,4 @@ Sending SMS: Smart Irrigation: Sufficient moisture. Motor turned OFF.
 
 ---
 
-## 👩‍💻 Team
 
-| Name | Roll Number |
-|---|---|
-| G. Sri Priya | 17R21A0421 |
-| P. Kesini | 17R21A0445 |
-| R. Akanksha | 17R21A0447 |
-| Shaik Ahmed Pasha | 17R21A0454 |
-
-**Internal Guide:** Mr. V. Arun, Associate Professor, ECE
-
----
-
-## 🏫 Institution
-
-**MLRIT — Marri Laxman Reddy Institute of Technology and Management**
-Affiliated to JNTUH, Hyderabad
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
