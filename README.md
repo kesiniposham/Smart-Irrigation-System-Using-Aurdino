@@ -1,6 +1,6 @@
 # 🌱 Smart Irrigation System Using Arduino
 
-An IoT-based automatic irrigation system that monitors soil moisture, weather conditions, and water tank levels to control a motor pump — with real-time SMS alerts sent to the farmer.
+An IoT-based automatic irrigation system that monitors soil moisture, weather conditions, and water tank levels to control a motor pump - with real-time SMS alerts sent to the farmer.
 
 ---
 
@@ -13,8 +13,8 @@ India's growing population demands increased agricultural output. This project a
 ## ✨ Features
 
 - 🌿 Automatic motor ON/OFF based on soil moisture levels
-- 🌦️ Weather-aware logic — skips irrigation if rain is expected (DHT sensor)
-- 💧 Water tank level monitoring — shuts motor off if tank is low
+- 🌦️ Weather-aware logic - skips irrigation if rain is expected (DHT sensor)
+- 💧 Water tank level monitoring - shuts motor off if tank is low
 - 📱 Real-time SMS alerts to farmer via GSM module
 - 🖥️ Live status display on 16×2 LCD
 - 📡 Serial monitor logging for debugging
@@ -34,7 +34,7 @@ India's growing population demands increased agricultural output. This project a
 | 16×2 LCD with I2C backpack | 1 |
 | Submersible pump + motor | 1 |
 | 10 kΩ resistor (DHT pull-up) | 1 |
-| Breadboard + jumper wires | — |
+| Breadboard + jumper wires | - |
 
 ---
 
